@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3184955",
+      "name": "sun",
+      "font_class": "sun",
+      "unicode": "e7c2",
+      "unicode_decimal": 59330
+    },
+    {
+      "icon_id": "3651029",
+      "name": "愉快",
+      "font_class": "yukuai",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "7813086",
+      "name": "可乐",
+      "font_class": "kele",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "13084195",
+      "name": "蛋糕",
+      "font_class": "dangao",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "14544371",
+      "name": "sr",
+      "font_class": "sr",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    }
+  ]
+}
